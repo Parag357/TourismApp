@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/download"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/falls"
+        style="@style/Base.Theme.AppCompat.Light"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:text="Falls"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#1f2628"
+        android:textSize="25sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/temples"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:text="Temples"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#1f2628"
+        android:textSize="25sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/museums"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:text="Museums"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#1f2628"
+        android:textSize="25sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/hills"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:text="Hills"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#1f2628"
+        android:textSize="25sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/parks"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:text="Parks"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#1f2628"
+        android:textSize="25sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/dams"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:text="Dams"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#1f2628"
+        android:textSize="25sp"
+        android:typeface="monospace" />
+
+
+</LinearLayout>

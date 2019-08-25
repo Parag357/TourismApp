@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Detail">
+
+    <ImageView
+        android:id="@+id/detail_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/download" />
+
+    <TextView
+        android:id="@+id/detail_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Title"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp" />
+    <RatingBar
+        android:id="@+id/detail_rating"
+        style="@android:style/Widget.DeviceDefault.Light.RatingBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="9sp"
+        android:theme="@style/RatingBar"/>
+
+    <TextView
+        android:id="@+id/detail_loc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Location"
+        android:textColor="@color/colorAccent"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/detail_maps"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="133dp"
+            android:layout_height="75dp"
+            android:background="@color/colorPrimaryDark"
+            android:text="Maps"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/detail_ola"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="133dp"
+            android:layout_height="75dp"
+            android:background="@color/colorPrimaryDark"
+            android:text="Ola"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/detail_uber"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="133dp"
+            android:layout_height="75dp"
+            android:background="@color/colorPrimaryDark"
+            android:text="Uber"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@color/colorWhite" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/detail_describe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Description"
+            android:textSize="15sp" />
+    </ScrollView>
+
+</LinearLayout>
