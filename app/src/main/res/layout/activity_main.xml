@@ -4,11 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:background="@drawable/download"
+    android:background="@drawable/sita"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:orientation="horizontal">
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal">
     <Button
         android:id="@+id/falls"
         style="@style/Base.Theme.AppCompat.Light"
@@ -19,69 +27,89 @@
         android:text="Falls"
         android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#1f2628"
+        android:textColor="#ffffff"
         android:textSize="25sp"
         android:typeface="monospace" />
 
     <Button
         android:id="@+id/temples"
+        style="@style/Base.Theme.AppCompat.Light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@drawable/custom_button"
         android:text="Temples"
+        android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#1f2628"
+        android:textColor="#ffffff"
         android:textSize="25sp"
         android:typeface="monospace" />
-
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal">
     <Button
         android:id="@+id/museums"
+        style="@style/Base.Theme.AppCompat.Light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@drawable/custom_button"
         android:text="Museums"
+        android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#1f2628"
+        android:textColor="#ffffff"
         android:textSize="25sp"
         android:typeface="monospace" />
 
     <Button
         android:id="@+id/hills"
+        style="@style/Base.Theme.AppCompat.Light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@drawable/custom_button"
         android:text="Hills"
+        android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#1f2628"
+        android:textColor="#ffffff"
         android:textSize="25sp"
         android:typeface="monospace" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal">
 
     <Button
         android:id="@+id/parks"
+        style="@style/Base.Theme.AppCompat.Light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@drawable/custom_button"
         android:text="Parks"
+        android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#1f2628"
+        android:textColor="#ffffff"
         android:textSize="25sp"
         android:typeface="monospace" />
 
     <Button
         android:id="@+id/dams"
+        style="@style/Base.Theme.AppCompat.Light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@drawable/custom_button"
         android:text="Dams"
+        android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-        android:textColor="#1f2628"
+        android:textColor="#ffffff"
         android:textSize="25sp"
         android:typeface="monospace" />
-
+    </LinearLayout>
 
 </LinearLayout>
