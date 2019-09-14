@@ -85,7 +85,7 @@
 
     <Button
         android:id="@+id/parks"
-        style="@style/Base.Theme.AppCompat.Light"
+
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
@@ -99,7 +99,6 @@
 
     <Button
         android:id="@+id/dams"
-        style="@style/Base.Theme.AppCompat.Light"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
