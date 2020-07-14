@@ -3,4 +3,17 @@
 # Screenshots
 
 Welcome
+
+![](screenshots/welcome.jpg)
+
+Categories
+
+![](screenshots/categories.jpg)
+
+Welcome
+
+![](screenshots/welcome.jpg)
+
+Welcome
+
 ![](screenshots/welcome.jpg)
