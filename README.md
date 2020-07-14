@@ -1,1 +1,1 @@
-# A tourist friendly android app which helps to explore the visiting spots in the state of Jharkhand  with ease.
+# An android application containing the necessary information regarding the tourist spots of Jharkhand, India.
