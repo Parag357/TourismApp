@@ -10,9 +10,9 @@ Categories
 
 ![](screenshots/categories.jpg)
 
-Welcome
+List of places
 
-![](screenshots/welcome.jpg)
+![](screenshots/list.jpg)
 
 Welcome
 
