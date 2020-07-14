@@ -10,10 +10,10 @@ Categories
 
 ![](screenshots/categories.jpg)
 
-List of places
+List of tourist spots whithin the selected category
 
 ![](screenshots/list.jpg)
 
-Welcome
+Ratings, location and other information of the selected spot
 
-![](screenshots/welcome.jpg)
+![](screenshots/details.jpg)
