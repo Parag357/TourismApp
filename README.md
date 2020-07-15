@@ -10,7 +10,7 @@ Categories
 
 ![](screenshots/categories.jpg)
 
-List of tourist spots whithin the selected category
+List of tourist spots within the selected category
 
 ![](screenshots/list.jpg)
 
