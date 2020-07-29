@@ -4,18 +4,18 @@
 
 # Screenshots
 
-<center><b>Welcome</b></center>
+<b>Welcome</b>
 
 <img src="./screenshots/welcome.jpg" alt="splash" width="25%" height="auto">
 
-Categories
+<b>Categories</b>
 
 <img src="./screenshots/categories.jpg" alt="home" width="25%" height="auto">
 
-List of tourist spots within the selected category
+<b>List of tourist spots within the selected category</b>
 
 <img src="./screenshots/list.jpg" alt="section" width="25%" height="auto">
 
-Ratings, location and other information of the selected spot
+<b>Ratings, location and other information of the selected spot</b>
 
 <img src="./screenshots/details.jpg" alt="details" width="25%" height="auto">
