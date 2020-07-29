@@ -6,16 +6,16 @@
 
 Welcome
 
-<img src="./screenshots/welcome.jpg" alt="splash" width="50%" height="auto">
+<img src="./screenshots/welcome.jpg" alt="splash" width="25%" height="auto">
 
 Categories
 
-<img src="./screenshots/categories.jpg" alt="home" width="50%" height="auto">
+<img src="./screenshots/categories.jpg" alt="home" width="25%" height="auto">
 
 List of tourist spots within the selected category
 
-<img src="./screenshots/list.jpg" alt="section" width="50%" height="auto">
+<img src="./screenshots/list.jpg" alt="section" width="25%" height="auto">
 
 Ratings, location and other information of the selected spot
 
-<img src="./screenshots/details.jpg" alt="details" width="50%" height="auto">
+<img src="./screenshots/details.jpg" alt="details" width="25%" height="auto">
