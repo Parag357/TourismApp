@@ -4,7 +4,7 @@
 
 # Screenshots
 
-<b>Welcome</b>
+<center><b>Welcome</b></center>
 
 <img src="./screenshots/welcome.jpg" alt="splash" width="25%" height="auto">
 
