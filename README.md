@@ -6,7 +6,7 @@
 
 Welcome
 
-![](screenshots/welcome.jpg)
+<img src="./screenshots/welcome.jpg" alt="splash" width="50%" height="auto">
 
 Categories
 
