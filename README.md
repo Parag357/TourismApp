@@ -10,12 +10,12 @@ Welcome
 
 Categories
 
-![](screenshots/categories.jpg)
+<img src="./screenshots/categories.jpg" alt="home" width="50%" height="auto">
 
 List of tourist spots within the selected category
 
-![](screenshots/list.jpg)
+<img src="./screenshots/list.jpg" alt="section" width="50%" height="auto">
 
 Ratings, location and other information of the selected spot
 
-![](screenshots/details.jpg)
+<img src="./screenshots/details.jpg" alt="details" width="50%" height="auto">
