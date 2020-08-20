@@ -10,6 +10,10 @@
   
 <img align="center" src="./screenshots/categories.jpg" alt="home" width="25%" height="auto">
   
+</p>
+
+<p align="center">  
+  
 <img align="center" src="./screenshots/list.jpg" alt="section" width="25%" height="auto">
   
 <img align="center" src="./screenshots/details.jpg" alt="details" width="25%" height="auto">
