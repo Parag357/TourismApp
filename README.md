@@ -6,16 +6,32 @@
 
 <b>Welcome</b>
 
+<p align="center">
+  
 <img align="center" src="./screenshots/welcome.jpg" alt="splash" width="25%" height="auto">
+
+</p>
 
 <b>Categories</b>
 
+<p align="center">
+  
 <img align="center" src="./screenshots/categories.jpg" alt="home" width="25%" height="auto">
 
+</p>
+  
 <b>List of tourist spots within the selected category</b>
 
+<p align="center">
+  
 <img align="center" src="./screenshots/list.jpg" alt="section" width="25%" height="auto">
+
+</p>
 
 <b>Ratings, location and other information of the selected spot</b>
 
+<p align="center">
+  
 <img align="center" src="./screenshots/details.jpg" alt="details" width="25%" height="auto">
+
+</p>
